@@ -12,7 +12,12 @@ This project determines the users' colour palette based on their features such a
 1. Download the Colour Analysis file to your downloads
 3. Open PyCharm and click File > Open
 4. Select "Colour Analysis Final" and press Open
-5. Make sure that there is 4 JPG files for the colour analysis resuts for each season
+
+## Downloading the images
+1. Download each image (4 JPG files)
+2. Move the images to the same folder of the PyCharm file
+3. Make sure each images name shows up under the project files in PyCharm
+4. Do not change the names of the image files, they need to be the same so that the code recognises them
 
 ## Installing Pillow
 1. Go to https://pypi.org/project/pillow/#files
