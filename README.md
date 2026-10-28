@@ -4,7 +4,7 @@
 This project determines the users' colour palette based on their features such as skins undertone, eye colour, hair colour and skin tone
 
 ## Requirements
-- PyCharm (https://www.jetbrains.com/pycharm/download/?section=windows); download program for MacOS or Windows based on what you are using
+- PyCharm: community version (https://www.jetbrains.com/pycharm/download/?section=windows); download program for MacOS or Windows based on what you are using
 - Python [version 3.14]
 - Pillow (external library, used for displaying images)
 
